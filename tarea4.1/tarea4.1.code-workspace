@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Carrusel"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Carrusel"
+	}
+}
